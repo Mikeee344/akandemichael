@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://willowy-longma-4e2e72.netlify.app/sitemap.xml
